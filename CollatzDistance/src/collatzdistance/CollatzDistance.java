@@ -1,4 +1,7 @@
-
+//Nerys Jimenez Pichardo
+//The College of Saint Rose
+//Competitive Programming
+//Feb 12, 2015
 package collatzdistance;
 
 import java.util.Scanner;
